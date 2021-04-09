@@ -43,7 +43,7 @@ import (
 
 const (
 	shortWait = 30 * time.Second
-	longWait  = 1 * time.Minute
+	longWait  = 10 * time.Minute
 	timeout   = 2 * time.Minute
 )
 
